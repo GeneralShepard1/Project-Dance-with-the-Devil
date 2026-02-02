@@ -162,3 +162,33 @@ python SCRIPT_NAME IP_ADRESA
 6. zadatak ->  
 
 Objasniti kako riješiti ranjivost koja je pronađena u zadatku 5. 
+
+________________________________________________________________________________________________________________
+mkdir XXX
+chmod 755 XXX              # Read/Execute za sve, Write samo vlasnik
+chmod 750 XXX              # Read/Execute za grupu, Ništa za ostale
+chmod 644 XXX/datoteka     # Datoteke sa različitim pravima
+
+
+dig MX www.unmo.ba       # Mail server
+dig A www.unmo.ba        # IP adresa
+dig NS www.unmo.ba       # Nameserveri
+dig SOA www.unmo.ba      # Authority
+
+whois www.unmo.ba        # Registrar informacije
+dig www.unmo.ba          # DNS records
+nslookup www.unmo.ba     # Dodatna verifikacija
+
+
+nslookup mail.unmo.ba               # Pronađi IP
+telnet [IP] 25                      # Testiraj SMTP
+# ili
+nc -v mail.unmo.ba 25               # Netcat test
+
+
+
+
+
+
+
+
