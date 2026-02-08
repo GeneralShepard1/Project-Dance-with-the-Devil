@@ -186,6 +186,13 @@ telnet [IP] 25                      # Testiraj SMTP
 nc -v mail.unmo.ba 25               # Netcat test
 
 
+AI
+https://www.perplexity.ai/
+https://chat.deepseek.com/
+https://grok.com/
+https://chat.akash.network/
+https://notegpt.io/ai-chat
+https://chat.qwen.ai/
 
 
 
