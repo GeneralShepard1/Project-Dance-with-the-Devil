@@ -127,7 +127,7 @@ sudo ip route add default via 172.31.192.1
 ping 172.31.192.5
 
 cd <DIRECTORY_NAME>
-python <SCRIPT_NAME>.py 172.31.192.5
+python3 <SCRIPT_NAME>.py 172.31.192.5
 ```
 
 Napomena:
