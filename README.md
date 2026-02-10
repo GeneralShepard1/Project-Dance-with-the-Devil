@@ -1,6 +1,4 @@
-# Koraci za IS (Hyper-V + Kali + ServerIspit) — Cheat Sheet
 
-Ovaj README pokriva kompletne korake: konfiguracija VM-ova, prava pristupa (chmod), DNS/MX provjera za `unmo.ba`, skeniranje targeta, provjera CVE ranjivosti i osnovne pomoćne komande.
 
 ---
 
