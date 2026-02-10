@@ -194,6 +194,15 @@ https://chat.akash.network/
 https://notegpt.io/ai-chat
 https://chat.qwen.ai/
 
+Metasploit
+msfconsole
+search apache
+search type:exploit smb
+search platform:windows smb
+search type:exploit platform:windows smb
+search type:exploit apache
+search type:exploit apache 2.4
+
 
 
 
